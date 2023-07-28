@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ainnurizzati
 - 👀 I’m interested in web development!
 - 🌱 I’m currently learning new things everyday!
-- 📫 How to reach me; ainnurizzati24@gmail.com
+- 📫 How to reach me; ainnurizzati.work@gmail.com
 
 <!---
 ainnurizzati/ainnurizzati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
